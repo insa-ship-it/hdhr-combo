@@ -14,8 +14,7 @@ PLAYLISTS = [
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/plex_gb.m3u", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/ott-news.m3u8", 
     "https://github.com/insa-ship-it/sports/raw/refs/heads/main/liveeventsfilter.m3u8", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/religion.m3u8",
-    "https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u", 
+    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/religion.m3u8"
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
