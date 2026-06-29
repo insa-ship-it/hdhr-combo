@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-06-28T13:59:22.826640 UTC
+# Generated on 2026-06-29T04:24:50.612756 UTC
 
 #PLAYLIST:x alexandria-la-hdhr
 #EXTGRP:x alexandria-la-hdhr
@@ -759,6 +759,12 @@ http://98.111.243.7:5004/auto/v16.5
 http://98.111.243.7:5004/auto/v16.6
 #EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey | Jeannette PA" group-title="ENG | Entertainment",Nosey | Jeannette PA
 http://98.111.243.7:5004/auto/v19.6
+#EXTINF:-1 tvg-id="TrueCRMZ.us" tvg-name="NBC True Crmz | Pittsburgh PA" group-title="ENG | Entertainment",NBC True Crmz | Pittsburgh PA
+http://98.111.243.7:5004/auto/v20.2
+#EXTINF:-1 tvg-id="LawAndCrime.us" tvg-name="Law & Crime | Pittsburgh PA " group-title="ENG | Entertainment",Law & Crime | Pittsburgh PA
+http://98.111.243.7:5004/auto/v20.4
+#EXTINF:-1 tvg-id="The365.us" tvg-name="The365 | Pittsburgh PA" group-title="ENG | Entertainment",The365 | Pittsburgh PA
+http://98.111.243.7:5004/auto/v20.6
 #EXTINF:-1 tvg-id="TheNest.us" tvg-name="TheNest | Pittsburgh PA" group-title="ENG | Entertainment",TheNest | Pittsburgh PA
 http://98.111.243.7:5004/auto/v22.2
 #EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet | Pittsburgh PA" group-title="ENG | Entertainment",Comet | Pittsburgh PA
@@ -847,6 +853,10 @@ http://98.111.243.7:5004/auto/v16.7
 http://98.111.243.7:5004/auto/v16.8
 #EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN | Jeannette PA" group-title="Shopping",HSN | Jeannette PA
 http://98.111.243.7:5004/auto/v19.5
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="Informercials WWLM-CD1" group-title="Shopping",Informercials WWLM-CD1
+http://98.111.243.7:5004/auto/v20.1
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="Informercials WWLM-CD3" group-title="Shopping",Informercials WWLM-CD3
+http://98.111.243.7:5004/auto/v20.3
 #EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC | Pittsburgh PA" group-title="Shopping",QVC | Pittsburgh PA
 http://98.111.243.7:5004/auto/v61.6
 #EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC2 | Pittsburgh PA" group-title="Shopping",QVC2 | Pittsburgh PA
@@ -869,24 +879,14 @@ http://98.111.243.7:5004/auto/v22.1
 #GROUP:Z - Offline Streams
 #EXTINF:-1 tvg-id="HeroesAndIconsNetwork.us" tvg-name="H&I | Jeannette PA (Offline)" group-title="Z - Offline Streams",H&I | Jeannette PA (Offline)
 http://98.111.243.7:5004/auto/v19.2
-#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.1 WWLM-CD (Offline)
-http://98.111.243.7:5004/auto/v20.1
-#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.2 WWLM-CD (Offline)
-http://98.111.243.7:5004/auto/v20.2
-#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.3 WWLM-CD (Offline)
-http://98.111.243.7:5004/auto/v20.3
-#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.4 WWLM-CD (Offline)
-http://98.111.243.7:5004/auto/v20.4
-#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.5 WWLM-CD (Offline)
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="SHOPLC | Pittsburgh PA (Offline)" group-title="Z - Offline Streams",ShopLC | Pittsburgh PA (Offline)
 http://98.111.243.7:5004/auto/v20.5
-#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.6 WWLM-CD (Offline)
-http://98.111.243.7:5004/auto/v20.6
-#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.7 WWLM-CD (Offline)
-http://98.111.243.7:5004/auto/v20.7
 
 #GROUP:ENG | Westerns
 #EXTINF:-1 tvg-id="Grit.us" tvg-name="GRIT | Jeannette PA" group-title="ENG | Westerns",GRIT | Jeannette PA
 http://98.111.243.7:5004/auto/v19.3
+#EXTINF:-1 tvg-id="Outlaw.us" tvg-name="Outlaw | Pittsburgh PA WWLM7" group-title="ENG | Westerns",Outlaw | Pittsburgh PA WWLM7
+http://98.111.243.7:5004/auto/v20.7
 #EXTINF:-1 tvg-id="Outlaw.us" tvg-name="OUTLAW | Greensburg PA" group-title="ENG | Westerns",OUTLAW | Greensburg PA
 http://98.111.243.7:5004/auto/v40.7
 #EXTINF:-1 tvg-id="WESTNetwork.us" tvg-name="WEST | Pittsburgh PA" group-title="ENG | Westerns",WEST | Pittsburgh PA
@@ -913,7 +913,7 @@ http://98.111.243.7:5004/auto/v65.1
 http://98.111.243.7:5004/auto/v65.2
 #EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Daystar 65.3 WPDN-SD" group-title="Religion (All Lang)",Daystar 65.3
 http://98.111.243.7:5004/auto/v65.3
-#EXTINF:-1 tvg-id="Mariavision.pe" tvg-name="Mariavisión | Pittsburgh PA" group-title="Religion (All Lang)",Mariavisión | Pittsburgh PA
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Mariavisión | Pittsburgh PA" group-title="Religion (All Lang)",Mariavisión | Pittsburgh PA
 http://98.111.243.7:5004/auto/v69.9
 
 #GROUP:ENG | Sports
