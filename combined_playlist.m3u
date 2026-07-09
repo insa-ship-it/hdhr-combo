@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-07-09T03:46:14.346307 UTC
+# Generated on 2026-07-09T15:20:45.136105 UTC
 
 #PLAYLIST:x alexandria-la-hdhr
 #EXTGRP:x alexandria-la-hdhr
@@ -929,6 +929,166 @@ http://98.111.243.7:5004/auto/v53.1
 
 ==================================================
 
+#PLAYLIST:x portland-or-hdhr
+#EXTGRP:x portland-or-hdhr
+
+#GROUP:ENG | News
+#EXTINF:-1 tvg-id="WEATHER.dummy.us" tvg-name="NWS | Eugene OR" group-title="ENG | News",NWS | Eugene OR
+http://199.245.173.253:5004/auto/v3.1
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-name="OAN | Eugene OR" group-title="ENG | News",OAN | Eugene OR
+http://199.245.173.253:5004/auto/v3.3
+#EXTINF:-1 tvg-id="NASA+.us" tvg-name="NASA-4K" group-title="ENG | News",NASA-4K
+http://199.245.173.253:5004/auto/v3.10
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="NTD America | Eugene OR KORY-CD5" group-title="ENG | News",NTD America | Eugene OR KORY-CD5
+http://199.245.173.253:5004/auto/v15.5
+#EXTINF:-1 tvg-id="SalemNewsChannel.pluto" tvg-name="Salem News | Eugene OR" group-title="ENG | News",Salem News | Eugene OR
+http://199.245.173.253:5004/auto/v15.7
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax | Harrisburg OR" group-title="ENG | News",NewsMax | Harrisburg OR
+http://199.245.173.253:5004/auto/v18.1
+#EXTINF:-1 tvg-id="WeatherNationTV.us" tvg-name="Weather Nation | Harrisburg OR" group-title="ENG | News",Weather Nation | Harrisburg OR
+http://199.245.173.253:5004/auto/v18.7
+#EXTINF:-1 tvg-id="Real.Americas.Voice.us2" tvg-name="America's Voice | Harrisburg OR" group-title="ENG | News",America's Voice | Harrisburg OR
+http://199.245.173.253:5004/auto/v18.8
+
+#GROUP:ENG | Sports
+#EXTINF:-1 tvg-id="Fun.Roads.us2" tvg-name="Fun Roads | Eugene OR" group-title="ENG | Sports",Fun Roads | Eugene OR
+http://199.245.173.253:5004/auto/v3.4
+#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="Fubo Sports | Eugene OR 41.6" group-title="ENG | Sports",Fubo Sports | Eugene OR 41.6
+http://199.245.173.253:5004/auto/v41.6
+
+#GROUP:ENG | Movies
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="CINE-4K" group-title="ENG | Movies",CINE-4K
+http://199.245.173.253:5004/auto/v3.12
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Eugene OR" group-title="ENG | Movies",MovieSphere Gold | Eugene OR
+http://199.245.173.253:5004/auto/v15.8
+#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies | Harrisburg OR" group-title="ENG | Movies",Movies | Harrisburg OR
+http://199.245.173.253:5004/auto/v18.4
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Eugene OR (Alt)" group-title="ENG | Movies",MovieSphere Gold | Eugene OR (Alt)
+http://199.245.173.253:5004/auto/v41.3
+
+#GROUP:ENG | Music
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="LUPE-4K" group-title="ENG | Music",LUPE-4K
+http://199.245.173.253:5004/auto/v3.13
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="THC-TV" group-title="ENG | Music",THC-TV
+http://199.245.173.253:5004/auto/v3.20
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="LOFIGRL" group-title="ENG | Music",LOFIGRL
+http://199.245.173.253:5004/auto/v3.21
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="VAPRWAV" group-title="ENG | Music",VAPRWAV
+http://199.245.173.253:5004/auto/v3.22
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DATAWAV" group-title="ENG | Music",DATAWAV
+http://199.245.173.253:5004/auto/v3.23
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Oregon Public Radio" group-title="ENG | Music",Oregon Public Radio
+http://199.245.173.253:5004/auto/v28.4
+
+#GROUP:ENG | 24/7
+#EXTINF:-1 tvg-name="Star Trek - TNG" group-title="ENG | 24/7",Star Trek - TNG
+http://199.245.173.253:5004/auto/v3.25
+
+#GROUP:ENG | Local | CBS
+#EXTINF:-1 tvg-id="CBSKVAL.us" tvg-name="OR | Eugene | CBS KVAL" group-title="ENG | Local | CBS",OR | Eugene | CBS KVAL
+http://199.245.173.253:5004/auto/v13.1
+
+#GROUP:ENG | Entertainment
+#EXTINF:-1 tvg-id="KATU-DT2.us_locals1" tvg-name="ROAR | Eugene OR" group-title="ENG | Entertainment",ROAR | Eugene OR
+http://199.245.173.253:5004/auto/v13.2
+#EXTINF:-1 tvg-id="Charge!.us" tvg-name="Charge! | Eugene OR" group-title="ENG | Entertainment",Charge! | Eugene OR
+http://199.245.173.253:5004/auto/v13.3
+#EXTINF:-1 tvg-id="TheNest.us" tvg-name="TheNest | Eugene OR" group-title="ENG | Entertainment",TheNest | Eugene OR
+http://199.245.173.253:5004/auto/v13.4
+#EXTINF:-1 tvg-id="KORY-CD.us_locals1" tvg-name="365BLK | Eugene OR" group-title="ENG | Entertainment",365BLK | Eugene OR KORY-CD1
+http://199.245.173.253:5004/auto/v15.1
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="Cozi | Eugene OR" group-title="ENG | Entertainment",Cozi | Eugene OR
+http://199.245.173.253:5004/auto/v15.2
+#EXTINF:-1 tvg-id="DEFYWPXNDT4.us" tvg-name="Defy | Eugene OR KORY-CD4" group-title="ENG | Entertainment",Defy | Eugene OR KORY-CD4
+http://199.245.173.253:5004/auto/v15.4
+#EXTINF:-1 tvg-id="BustedKKPXDT6.us" tvg-name="Busted | Eugene OR KORY-CD6" group-title="ENG | Entertainment",Busted | Eugene OR KORY-CD6
+http://199.245.173.253:5004/auto/v15.6
+#EXTINF:-1 tvg-id="CometPacific.us" tvg-name="Comet | Eugene OR" group-title="ENG | Entertainment",Comet | Eugene OR
+http://199.245.173.253:5004/auto/v16.3
+#EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="Antenna | Harrisburg OR" group-title="ENG | Entertainment",Antenna | Harrisburg OR
+http://199.245.173.253:5004/auto/v18.2
+#EXTINF:-1 tvg-id="StoryTelevision.us" tvg-name="Story | Harrisburg OR" group-title="ENG | Entertainment",Story | Harrisburg OR
+http://199.245.173.253:5004/auto/v18.3
+#EXTINF:-1 tvg-id="ACEtv.us" tvg-name="Ace-TV | Harrisburg OR" group-title="ENG | Entertainment",Ace-TV | Harrisburg OR
+http://199.245.173.253:5004/auto/v18.13
+#EXTINF:-1 tvg-id="RightNowTV.us" tvg-name="Right Now | Harrisburg OR" group-title="ENG | Entertainment",Right Now | Harrisburg OR
+http://199.245.173.253:5004/auto/v18.14
+#EXTINF:-1 tvg-id="DABLKPTVDT4.us" tvg-name="DABL | Eugene OR" group-title="ENG | Entertainment",DABL | Eugene OR
+http://199.245.173.253:5004/auto/v23.2
+#EXTINF:-1 tvg-id="The365.us" tvg-name="365BLK | Eugene OR K06QR" group-title="ENG | Entertainment",365BLK | Eugene OR K06QR
+http://199.245.173.253:5004/auto/v41.1
+#EXTINF:-1 tvg-id="BustedKKPXDT6.us" tvg-name="Busted | Eugene OR" group-title="ENG | Entertainment",Busted | Eugene OR
+http://199.245.173.253:5004/auto/v41.4
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Black Vision TV" group-title="ENG | Entertainment",Black Vision TV
+http://199.245.173.253:5004/auto/v41.5
+#EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV | Eugene OR" group-title="ENG | Entertainment",MeTV | Eugene OR
+http://199.245.173.253:5004/auto/v9.2
+#EXTINF:-1 tvg-id="IONTVPacific.us" tvg-name="ION | Eugene OR" group-title="ENG | Entertainment",ION | Eugene OR
+http://199.245.173.253:5004/auto/v9.3
+#EXTINF:-1 tvg-id="HeroesAndIconsWest.us" tvg-name="H&I | Eugene OR" group-title="ENG | Entertainment",H&I | Eugene OR
+http://199.245.173.253:5004/auto/v9.4
+#EXTINF:-1 tvg-id="StartTV.us" tvg-name="Start TV | Eugene OR" group-title="ENG | Entertainment",Start TV | Eugene OR
+http://199.245.173.253:5004/auto/v9.5
+
+#GROUP:ENG | Westerns
+#EXTINF:-1 tvg-id="Outlaw.us" tvg-name="Outlaw | Eugene OR" tvg-logo="KORY-CD" group-title="ENG | Westerns",Outlaw | Eugene OR
+http://199.245.173.253:5004/auto/v15.3
+#EXTINF:-1 tvg-id="WESTNetwork.us" tvg-name="WEST | Harrisburg OR" group-title="ENG | Westerns",WEST | Harrisburg OR
+http://199.245.173.253:5004/auto/v18.5
+#EXTINF:-1 tvg-id="Outlaw.us" tvg-name="Outlaw | Eugene OR" group-title="ENG | Westerns",Outlaw | Eugene OR
+http://199.245.173.253:5004/auto/v41.2
+
+#GROUP:ENG | Local | NBC
+#EXTINF:-1 tvg-id="NBCKMTR.us" tvg-name="OR | Eugene | NBC KMTR" group-title="ENG | Local | NBC",OR | Eugene | NBC KMTR
+http://199.245.173.253:5004/auto/v16.1
+
+#GROUP:ENG | Local | CW/MY
+#EXTINF:-1 tvg-id="CW+KMTRDT2.us" tvg-name="OR | Eugene | CW+ KMTR" group-title="ENG | Local | CW/MY",OR | Eugene | CW+ KMTR
+http://199.245.173.253:5004/auto/v16.2
+#EXTINF:-1 tvg-id="KEVU-CD.us_locals1" tvg-name="OR | Eugene | MY KEVU" group-title="ENG | Local | CW/MY",OR | Eugene | MY KEVU
+http://199.245.173.253:5004/auto/v23.1
+#EXTINF:-1 tvg-id="KEVU-CD.us_locals1" tvg-name="OR | Eugene | MY KEVU (Alt)" group-title="ENG | Local | CW/MY",OR | Eugene | MY KEVU (Alt)
+http://199.245.173.253:5004/auto/v34.2
+
+#GROUP:ESP | Local
+#EXTINF:-1 tvg-id="TelemundoKQRE.us" tvg-name="OR | Harrisburg | Telemundo KCES" group-title="ESP | Local",OR | Harrisburg | Telemundo KCES
+http://199.245.173.253:5004/auto/v18.6
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="OR | Harrisburg | Estrella KCES" group-title="ESP | Local",OR | Harrisburg | Estrella KCES
+http://199.245.173.253:5004/auto/v18.9
+
+#GROUP:Religion (All Lang)
+#EXTINF:-1 tvg-id="Religious.Dummy.us " tvg-name="His Word | Harrisburg OR" group-title="Religion (All Lang)",His Word | Harrisburg OR
+http://199.245.173.253:5004/auto/v18.10
+
+#GROUP:Shopping
+#EXTINF:-1 tvg-id="JewelryTelevision.us" tvg-name="Jewelry TV | Harrisburg OR" group-title="Shopping",Jewelry TV | Harrisburg OR
+http://199.245.173.253:5004/auto/v18.11
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC | Harrisburg OR" group-title="Shopping",QVC | Harrisburg OR
+http://199.245.173.253:5004/auto/v18.12
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="Informercials K06QR-DT7" group-title="Shopping",Informercials K06QR-DT7
+http://199.245.173.253:5004/auto/v41.7
+
+#GROUP:ENG | Kids & Family
+#EXTINF:-1 tvg-id="PBSKOPB.us" tvg-name="OR | Eugene | PBS KEPB" group-title="ENG | Kids & Family",OR | Eugene | PBS KEPB
+http://199.245.173.253:5004/auto/v28.1
+#EXTINF:-1 tvg-id="WORLD.Channel.us2" tvg-name="OR | Eugene | PBS World" group-title="ENG | Kids & Family",OR | Eugene | PBS World
+http://199.245.173.253:5004/auto/v28.2
+#EXTINF:-1 tvg-id="PBSKidsWestSoCal.us" tvg-name="OR | Eugene | PBS Kids" group-title="ENG | Kids & Family",OR | Eugene | PBS Kids
+http://199.245.173.253:5004/auto/v28.3
+#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV Toons | Eugene OR" group-title="ENG | Kids & Family",MeTV Toons | Eugene OR
+http://199.245.173.253:5004/auto/v9.6
+
+#GROUP:ENG | Local | FOX
+#EXTINF:-1 tvg-id="FOXKLSR.us" tvg-name="OR | Eugene | FOX KLSR" group-title="ENG | Local | FOX",OR | Eugene | FOX KLSR
+http://199.245.173.253:5004/auto/v34.1
+
+#GROUP:ENG | Local | ABC
+#EXTINF:-1 tvg-id="ABCKEZI.us" tvg-name="OR | Eugene | ABC KEZI" group-title="ENG | Local | ABC",OR | Eugene | ABC KEZI
+http://199.245.173.253:5004/auto/v9.1
+
+
+==================================================
+
 #PLAYLIST:x rhinelander-wi-hdhr
 #EXTGRP:x rhinelander-wi-hdhr
 
@@ -1075,6 +1235,140 @@ http://68.65.124.50:5004/auto/v56.1
 http://68.65.124.50:5004/auto/v56.2
 #EXTINF:-1 tvg-id="MYWQMY.us" tvg-name="PA | Williamsport | My WQMY" group-title="ENG | Local | CW/MY",PA | Williamsport | My WQMY
 http://68.65.124.50:5004/auto/v56.3
+
+
+==================================================
+
+#PLAYLIST:x wilmington-nc
+#EXTGRP:x wilmington-nc
+
+#GROUP:ENG | Local | ABC
+#EXTINF:-1 tvg-id="ABCWWAY.us" tvg-name="NC | Wilmington | ABC WWAY" group-title="ENG | Local | ABC",NC | Wilmington | ABC WWAY
+http://209.215.122.164:9981/stream/channelid/2097510133?profile=pass
+
+#GROUP:ENG | Local | CBS
+#EXTINF:-1 tvg-id="CBSWWAY.us" tvg-name="NC | Wilmington | CBS WWAY" group-title="ENG | Local | CBS",NC | Wilmington | CBS WWAY
+http://209.215.122.164:9981/stream/channelid/1323955527?profile=pass
+
+#GROUP:ENG | Local | CW/MY
+#EXTINF:-1 tvg-id="WWAY-DT3.us_locals1" tvg-name="NC | Wilmington | CW WWAY" group-title="ENG | Local | CW/MY",NC | Wilmington | CW WWAY
+http://209.215.122.164:9981/stream/channelid/1730538115?profile=pass
+
+#GROUP:ENG | Entertainment
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus | Wilmington NC" group-title="ENG | Entertainment",ION Plus | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1369088380?profile=pass
+#EXTINF:-1 tvg-id="StartTV.us" tvg-name="START | Wilmington NC" group-title="ENG | Entertainment",START | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/84497042?profile=pass
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce | Wilmington NC" group-title="ENG | Entertainment",Bounce | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1401770459?profile=pass
+#EXTINF:-1 tvg-id="The365.us" tvg-name="The365 | Wilmington NC" group-title="ENG | Entertainment",The365 | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/79409241?profile=pass
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff | Wilmington NC" group-title="ENG | Entertainment",Laff | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/964609105?profile=pass
+#EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery | Wilmington NC" group-title="ENG | Entertainment",ION Mystery | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1509826114?profile=pass
+#EXTINF:-1 tvg-id="TrueCrimeNetwork.us" tvg-name="True Crime | Wilmington NC" group-title="ENG | Entertainment",True Crime | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/23037156?profile=pass
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="Oxygen | Wilmington NC" group-title="ENG | Entertainment",Oxygen | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1745243256?profile=pass
+#EXTINF:-1 tvg-id="BingeTV.us" tvg-name="Binge | Wilmington NC" group-title="ENG | Entertainment",Binge | Wilmington NC W35EF-D
+http://209.215.122.164:9981/stream/channelid/1565587235?profile=pass
+#EXTINF:-1 tvg-id="ZLiving.us" tvg-name="ZLiving | Wilmington NC" group-title="ENG | Entertainment",ZLiving | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/677538263?profile=pass
+#EXTINF:-1 tvg-name="Crime | Wilmington NC (Offline)" group-title="ENG | Entertainment",Crime | Wilmington NC (Offline)
+http://209.215.122.164:9981/stream/channelid/1868931478?profile=pass
+#EXTINF:-1 tvg-id="Fun.Roads.us2" tvg-name="Fun Roads | Wilmington NC" group-title="ENG | Entertainment",Fun Roads | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/449830187?profile=pass
+#EXTINF:-1 tvg-name="Oxygen | Wilmington NC (Offline)" group-title="ENG | Entertainment",Oxygen | Wilmington NC (Offline)
+http://209.215.122.164:9981/stream/channelid/2013306495?profile=pass
+#EXTINF:-1 tvg-id="IonTV.us" tvg-name="ION | Wilmington NC" group-title="ENG | Entertainment",ION | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1915236574?profile=pass
+#EXTINF:-1 tvg-id="Dabl.us" tvg-name="DABL | Wilmington NC" group-title="ENG | Entertainment",DABL | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/516642571?profile=pass
+#EXTINF:-1 tvg-id="ConfessByNosey.us" tvg-name="Confess | Wilmington NC" group-title="ENG | Entertainment",Confess | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/2044194342?profile=pass
+#EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey | Wilmington NC" group-title="ENG | Entertainment",Nosey | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/840231474?profile=pass
+#EXTINF:-1 tvg-id="IonTV.us" tvg-name="ION | Wilmington NC (Alt)" group-title="ENG | Entertainment",ION | Wilmington NC (Alt)
+http://209.215.122.164:9981/stream/channelid/198826698?profile=pass
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff | Wilmington NC" group-title="ENG | Entertainment",Laff | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1407030124?profile=pass
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus | Wilmington NC (Alt)" group-title="ENG | Entertainment",ION Plus | Wilmington NC (Alt)
+http://209.215.122.164:9981/stream/channelid/282874669?profile=pass
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED | Wilmington NC" group-title="ENG | Entertainment",BUSTED | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1633930764?profile=pass
+#EXTINF:-1 tvg-id="GameShowCentral.us" tvg-name="Game Show Central | Wilmington NC" group-title="ENG | Entertainment",Game Show Central | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/895635300?profile=pass
+#EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us" tvg-name="Great | Wilmington NC" group-title="ENG | Entertainment",Great | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1671565611?profile=pass
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="Busted | Wilmington NC WQDH" group-title="ENG | Entertainment",Busted | Wilmington NC WQDH
+http://209.215.122.164:9981/stream/channelid/1331921613?profile=pass
+
+#GROUP:ENG | Local | NBC
+#EXTINF:-1 tvg-id="NBCWECT.us" tvg-name="NC | Wilmington | NBC WECT" group-title="ENG | Local | NBC",NC | Wilmington | NBC WECT
+http://209.215.122.164:9981/stream/channelid/1667063420?profile=pass
+
+#GROUP:Shopping
+#EXTINF:-1 tvg-id="SHOPnow.us2" tvg-name="ShopNow | Wilmington NC" group-title="Shopping",ShopNow | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1808721827?profile=pass
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="Shop1 | Wilmington NC" group-title="Shopping",Shop1 | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1135549556?profile=pass
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN | Wilmington NC" group-title="Shopping",HSN | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/887592924?profile=pass
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC | Wilmington NC" group-title="Shopping",QVC | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1885593569?profile=pass
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="Shop LC | Wilmington NC" group-title="Shopping",Shop LC | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/261292223?profile=pass
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="Informercials WQDH-LD4" group-title="Shopping",Informercials WQDH-LD4
+http://209.215.122.164:9981/stream/channelid/984305561?profile=pass
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="Informercials WQDH-LD5" group-title="Shopping",Informercials WQDH-LD5
+http://209.215.122.164:9981/stream/channelid/613622473?profile=pass
+#EXTINF:-1 tvg-id="JewelryTelevision.us" tvg-name="Jewelry TV | Wilmington NC" group-title="Shopping",Jewelry TV | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1153631680?profile=pass
+
+#GROUP:Religion (All Lang)
+#EXTINF:-1 tvg-id="WBPI-CD.us_locals1" tvg-name="GA | Augusta | WBPI " group-title="Religion (All Lang)",GA | Augusta | WBPI
+http://209.215.122.164:9981/stream/channelid/626117757?profile=pass
+#EXTINF:-1 tvg-id="Biz.TV.us2" tvg-name="BizTV | Wilmington NC" group-title="Religion (All Lang)",BizTV | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/2128540108?profile=pass
+
+#GROUP:ENG | Local | FOX
+#EXTINF:-1 tvg-id="FOXWSFX.us" tvg-name="NC | Wilmington | FOX WSFX-DT" group-title="ENG | Local | FOX",NC | Wilmington | FOX WSFX-DT
+http://209.215.122.164:9981/stream/channelid/791460933?profile=pass
+
+#GROUP:ENG | News
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="CourtTV | Wilmington NC" group-title="ENG | News",CourtTV | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/745440870?profile=pass
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="CourtTV | Wilmington NC (Alt)" group-title="ENG | News",CourtTV | Wilmington NC (Alt)
+http://209.215.122.164:9981/stream/channelid/1554437567?profile=pass
+
+#GROUP:ENG | Westerns
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit | Wilmington NC" group-title="ENG | Westerns",Grit | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/2025269820?profile=pass
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit | Wilmington NC (Alt)" group-title="ENG | Westerns",Grit | Wilmington NC (Alt)
+http://209.215.122.164:9981/stream/channelid/202319832?profile=pass
+#EXTINF:-1 tvg-id="Outlaw.us" tvg-name="Outlaw | Wilmington NC" group-title="ENG | Westerns",Outlaw | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1724239793?profile=pass
+
+#GROUP:ESP | Local
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="NC | Wilmington | Telemundo" group-title="ESP | Local",NC | Wilmington | Telemundo
+http://209.215.122.164:9981/stream/channelid/1125999090?profile=pass
+#EXTINF:-1 tvg-name="TeleXitos | Wilmington NC" group-title="ESP | Local",TeleXitos | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/167334659?profile=pass
+
+#GROUP:ENG | Kids & Family
+#EXTINF:-1 tvg-id="PBSWUNL.us" tvg-name="NC | Wilmington | PBS" group-title="ENG | Kids & Family",NC | Wilmington | PBS
+http://209.215.122.164:9981/stream/channelid/409098738?profile=pass
+#EXTINF:-1 tvg-id="PBSKidsNYC.us" tvg-name="NC | Wilmington | PBS ROOTLE" group-title="ENG | Kids & Family",NC | Wilmington | PBS ROOTLE
+http://209.215.122.164:9981/stream/channelid/184528510?profile=pass
+#EXTINF:-1 tvg-id="PBSWUNP.us" tvg-name="UNC-EX" group-title="ENG | Kids & Family",UNC-EX
+http://209.215.122.164:9981/stream/channelid/1927986828?profile=pass
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="North Carolina Channel" group-title="ENG | Kids & Family",North Carolina Channel
+http://209.215.122.164:9981/stream/channelid/544643522?profile=pass
+
+#GROUP:ENG | Movies
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Wilmington NC " group-title="ENG | Movies",MovieSphere Gold | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/898791405?profile=pass
 
 
 ==================================================
